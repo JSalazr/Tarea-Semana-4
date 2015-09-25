@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="crypt" tilewidth="32" tileheight="32">
+  <image source="crypt.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJx7z8DA8H4U0xzfxoL10NQYADEAkd9beQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9AC8ODC6GgAK6ABc
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" width="10" height="10">
+  <object x="196" y="287" width="93" height="31"/>
+ </objectgroup>
+</map>

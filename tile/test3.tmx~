@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="crypt" tilewidth="32" tileheight="32">
+  <image source="crypt.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJy7zcDAcJsI/GAUU4QJhSNMHgDEOFc7
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJyNyjkOgQEQgNH/Vtbe2lsbwgEIByAcwHYAW6FUOIBCSxQOoHAAQu9JlIhJXmaS+SpBEFTZc/iwa9Rp0CREmAhRYsRp0aZDlwRJUqTJkKVHnwFDcuQpUKREmTETpsyC77NgyZr5j+7127B937/sOP7RnTj/0V24cmPF6IM7D55vGTJ5
+  </data>
+ </layer>
+ <layer name="Collision" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzjZWBg4B3kmBAYKup4sfDRMQDhZgMA
+  </data>
+ </layer>
+ <objectgroup name="warps" width="10" height="10">
+  <object name="warp" x="65" y="289" width="33" height="25"/>
+ </objectgroup>
+</map>
